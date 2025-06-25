@@ -16,7 +16,6 @@ Diseñar una plataforma educativa web basada en microservicios, que permita gest
 - 📁 `02_Diseno` → Diagramas, carta Gantt, plan de riesgos.
 - 📁 `03_Desarrollo` → Informe técnico del desarrollo con Java y Spring Boot.
 - 📁 `04_Pruebas` → Plan de pruebas y casos funcionales.
-- 📁 `05_Evaluacion` → Informes y entregables de evaluación.
 
 ## Tecnologías utilizadas
 
